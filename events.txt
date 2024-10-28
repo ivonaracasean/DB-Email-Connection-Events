@@ -12,3 +12,4 @@
 {"event":"setValue","path":"connections[1].formData.smtpSettings.secure","value":"false"}
 {"event":"removeConnection","path":"connections","connectionId":"1730130181695"}
 {"event":"setValue","path":"connections[0].formData.smtpSettings.host","value":"1234"}
+{"event":"setValue","path":"connections[0].formData.smtpSettings.userCredentials.password","value":"dddd"}
