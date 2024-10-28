@@ -5,3 +5,4 @@
 {"event":"setValue","path":"connections[1].formData.smtpSettings.port","value":4444}
 {"event":"setValue","path":"connections[1].formData.smtpSettings.secure","value":"true"}
 {"event":"appendValue","path":"connections","connectionId":"1730107114029","value":{"id":"1730107114029","connectionType":"db","selectedType":"mysql","dynamicProps":[{"type":"title","text":"Base Credentials"},"baseCredentials.host/string","baseCredentials.port/number",{"type":"subtitle","text":"User Credentials"},"baseCredentials.userCredentials.user/string","baseCredentials.userCredentials.password/password",{"type":"title","text":"Specific Credentials"},"database/string","ssl/string"],"formData":{}}}
+{"event":"setValue","path":"connections[0].formData.baseCredentials.host","value":"dadada"}
