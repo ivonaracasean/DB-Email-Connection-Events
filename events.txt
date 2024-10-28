@@ -3,3 +3,4 @@
 {"event":"setValue","path":"connections[1]","value":{"connectionType":"email","selectedType":"smtp","dynamicProps":[{"type":"title","text":"Specific Credentials"},"smtpSettings.host/string","smtpSettings.port/number","smtpSettings.userCredentials.user/string","smtpSettings.userCredentials.password/password","smtpSettings.secure/options:true,false"],"formData":{}}}
 {"event":"setValue","path":"connections[1].formData.smtpSettings.host","value":"smtilp"}
 {"event":"setValue","path":"connections[1].formData.smtpSettings.port","value":4444}
+{"event":"setValue","path":"connections[1].formData.smtpSettings.secure","value":"true"}
