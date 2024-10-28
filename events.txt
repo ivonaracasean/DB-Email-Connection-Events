@@ -1,16 +1,1 @@
-{"event":"appendValue","path":"connections","connectionId":"1730130181695","value":{"id":"1730130181695","connectionType":"db","selectedType":"mysql","dynamicProps":[{"type":"title","text":"Base Credentials"},"baseCredentials.host/string","baseCredentials.port/number",{"type":"subtitle","text":"User Credentials"},"baseCredentials.userCredentials.user/string","baseCredentials.userCredentials.password/password",{"type":"title","text":"Specific Credentials"},"database/string","ssl/string"],"formData":{}}}
-{"event":"setValue","path":"connections[0].formData.baseCredentials.host","value":"localhost"}
-{"event":"setValue","path":"connections[0].formData.baseCredentials.userCredentials.user","value":"ivona"}
-{"event":"setValue","path":"connections[0].formData.baseCredentials.userCredentials.password","value":"abc123"}
-{"event":"appendValue","path":"connections","connectionId":"1730130274153","value":{"id":"1730130274153","connectionType":"db","selectedType":"mysql","dynamicProps":[{"type":"title","text":"Base Credentials"},"baseCredentials.host/string","baseCredentials.port/number",{"type":"subtitle","text":"User Credentials"},"baseCredentials.userCredentials.user/string","baseCredentials.userCredentials.password/password",{"type":"title","text":"Specific Credentials"},"database/string","ssl/string"],"formData":{}}}
-{"event":"setValue","path":"connections[1].formData.baseCredentials.host","value":"rrrrr"}
-{"event":"setValue","path":"connections[0].formData.baseCredentials.userCredentials.password","value":""}
-{"event":"setValue","path":"connections[0]","value":{"selectedType":"oracle","dynamicProps":[{"type":"title","text":"Base Credentials"},"baseCredentials.host/string","baseCredentials.port/number",{"type":"subtitle","text":"User Credentials"},"baseCredentials.userCredentials.user/string","baseCredentials.userCredentials.password/password",{"type":"title","text":"Specific Credentials"},"serviceName/string","sid/string"],"formData":{}}}
-{"event":"setValue","path":"connections[1]","value":{"connectionType":"email","selectedType":"smtp","dynamicProps":[{"type":"title","text":"Specific Credentials"},"smtpSettings.host/string","smtpSettings.port/number","smtpSettings.userCredentials.user/string","smtpSettings.userCredentials.password/password","smtpSettings.secure/options:true,false"],"formData":{}}}
-{"event":"setValue","path":"connections[0].formData.baseCredentials.userCredentials.user","value":"maria"}
-{"event":"setValue","path":"connections[1].formData.smtpSettings.secure","value":"true"}
-{"event":"setValue","path":"connections[1].formData.smtpSettings.secure","value":"false"}
-{"event":"removeConnection","path":"connections","connectionId":"1730130181695"}
-{"event":"setValue","path":"connections[0].formData.smtpSettings.host","value":"1234"}
-{"event":"setValue","path":"connections[0].formData.smtpSettings.userCredentials.password","value":"dddd"}
-{"event":"setValue","path":"connections[0].formData.smtpSettings.host","value":"1111"}
+
