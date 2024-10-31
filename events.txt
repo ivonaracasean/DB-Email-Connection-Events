@@ -1,3 +1,4 @@
 {"event":"appendValue","path":"connections","connectionId":"1730372571960","value":{"id":"1730372571960","connectionType":"db","selectedType":"mysql","dynamicProps":[{"type":"title","text":"Base Credentials"},"baseCredentials.host/string","baseCredentials.port/number",{"type":"subtitle","text":"User Credentials"},"baseCredentials.userCredentials.user/string","baseCredentials.userCredentials.password/password",{"type":"title","text":"Specific Credentials"},"database/string","ssl/string"],"formData":{}}}
 {"event":"setValue","path":"connections[0].formData.baseCredentials.host","value":"localhost"}
 {"event":"setValue","path":"connections[0].formData.baseCredentials.port","value":1234}
+{"event":"setValue","path":"connections[0].formData.baseCredentials.userCredentials.user","value":"ivona"}
