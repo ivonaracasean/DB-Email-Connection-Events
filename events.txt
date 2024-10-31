@@ -21,3 +21,4 @@
 {"event":"setValue","path":"connections[0].formData.baseCredentials.port","value":1234}
 {"event":"setValue","path":"connections[0].formData.baseCredentials.userCredentials.user","value":"icvona"}
 {"event":"setValue","path":"connections[0].formData.baseCredentials.userCredentials.password","value":"1234567"}
+{"event":"setValue","path":"connections[0].formData.baseCredentials.userCredentials.user","value":"ivona"}
