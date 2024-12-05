@@ -39,5 +39,36 @@
     "event": "setValue",
     "path": "connections[0].formData.baseCredentials.port",
     "value": 1234
+  },
+  {
+    "event": "appendValue",
+    "path": "connections",
+    "connectionId": "1733382318231",
+    "value": {
+      "id": "1733382318231",
+      "connectionType": "db",
+      "selectedType": "mysql",
+      "dynamicProps": [
+        {
+          "type": "title",
+          "text": "Base Credentials"
+        },
+        "baseCredentials.host/string",
+        "baseCredentials.port/number",
+        {
+          "type": "subtitle",
+          "text": "User Credentials"
+        },
+        "baseCredentials.userCredentials.user/string",
+        "baseCredentials.userCredentials.password/password",
+        {
+          "type": "title",
+          "text": "Specific Credentials"
+        },
+        "database/string",
+        "ssl/string"
+      ],
+      "formData": {}
+    }
   }
 ]
