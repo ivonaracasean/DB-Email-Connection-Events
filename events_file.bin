@@ -5,5 +5,15 @@
     "value": [
       "ddd"
     ]
+  },
+  {
+    "event": "acceptValue",
+    "path": "comments",
+    "value": [
+      [
+        "ddd"
+      ],
+      ""
+    ]
   }
 ]
