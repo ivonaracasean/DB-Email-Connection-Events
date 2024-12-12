@@ -70,5 +70,14 @@
       "name": "abcdddd",
       "address": "ddddddd"
     }
+  },
+  {
+    "event": "rejectValue",
+    "path": "",
+    "value": {
+      "comment": "zzzadada",
+      "name": "abcdddd",
+      "address": "ddddddd"
+    }
   }
 ]
