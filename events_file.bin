@@ -34,5 +34,14 @@
       "name": "",
       "address": ""
     }
+  },
+  {
+    "event": "acceptValue",
+    "path": "",
+    "value": {
+      "comment": "zzzadada",
+      "name": "",
+      "address": ""
+    }
   }
 ]
