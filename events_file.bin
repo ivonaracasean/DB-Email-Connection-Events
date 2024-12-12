@@ -111,5 +111,12 @@
     "event": "removeConnection",
     "path": "connections",
     "connectionId": "1733473032185"
+  },
+  {
+    "event": "acceptValue",
+    "path": "comments",
+    "value": [
+      "vvdv"
+    ]
   }
 ]
