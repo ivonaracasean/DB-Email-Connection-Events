@@ -61,5 +61,14 @@
       "name": "abcdddd",
       "address": "ddddddd"
     }
+  },
+  {
+    "event": "acceptValue",
+    "path": "",
+    "value": {
+      "comment": "zzzadada",
+      "name": "abcdddd",
+      "address": "ddddddd"
+    }
   }
 ]
