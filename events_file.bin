@@ -7,5 +7,14 @@
       "name": "",
       "address": ""
     }
+  },
+  {
+    "event": "rejectValue",
+    "path": "",
+    "value": {
+      "comment": "",
+      "name": "",
+      "address": ""
+    }
   }
 ]
