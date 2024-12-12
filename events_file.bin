@@ -1,1 +1,11 @@
-
+[
+  {
+    "event": "acceptValue",
+    "path": "",
+    "value": {
+      "comment": "cazca",
+      "name": "",
+      "address": ""
+    }
+  }
+]
