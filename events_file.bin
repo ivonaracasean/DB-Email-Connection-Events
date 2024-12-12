@@ -101,5 +101,10 @@
       ],
       "formData": {}
     }
+  },
+  {
+    "event": "setValue",
+    "path": "connections[1].formData.baseCredentials.host",
+    "value": "hosthost"
   }
 ]
