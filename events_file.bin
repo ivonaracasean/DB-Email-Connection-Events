@@ -25,5 +25,14 @@
       "name": "",
       "address": ""
     }
+  },
+  {
+    "event": "acceptValue",
+    "path": "",
+    "value": {
+      "comment": "zzz",
+      "name": "",
+      "address": ""
+    }
   }
 ]
