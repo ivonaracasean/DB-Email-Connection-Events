@@ -106,5 +106,10 @@
     "event": "setValue",
     "path": "connections[1].formData.baseCredentials.host",
     "value": "hosthost"
+  },
+  {
+    "event": "removeConnection",
+    "path": "connections",
+    "connectionId": "1733473032185"
   }
 ]
