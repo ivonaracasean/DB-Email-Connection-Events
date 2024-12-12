@@ -16,5 +16,14 @@
       "name": "",
       "address": ""
     }
+  },
+  {
+    "event": "acceptValue",
+    "path": "",
+    "value": {
+      "comment": "",
+      "name": "",
+      "address": ""
+    }
   }
 ]
