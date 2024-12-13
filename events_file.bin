@@ -160,5 +160,14 @@
       "name": "abcdddd",
       "address": "ddddddd"
     }
+  },
+  {
+    "event": "acceptValue",
+    "path": "",
+    "value": {
+      "comment": "Comment",
+      "name": "czczcz",
+      "address": "ddddddd"
+    }
   }
 ]
