@@ -187,5 +187,14 @@
       "name": "Ivona Racasean",
       "address": "Bucharest, District 4"
     }
+  },
+  {
+    "event": "acceptValue",
+    "path": "",
+    "value": {
+      "comment": "This information is correct, I might say!",
+      "name": "Ivona Maria Racasean",
+      "address": "Bucharest, District 4"
+    }
   }
 ]
