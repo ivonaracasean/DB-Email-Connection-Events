@@ -106,5 +106,14 @@
       "name": "abcdddd",
       "address": "ddddddd"
     }
+  },
+  {
+    "event": "acceptValue",
+    "path": "",
+    "value": {
+      "comment": "Just don't like this name",
+      "name": "abcdddd",
+      "address": "ddddddd"
+    }
   }
 ]
