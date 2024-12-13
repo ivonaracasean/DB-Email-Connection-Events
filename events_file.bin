@@ -115,5 +115,14 @@
       "name": "abcdddd",
       "address": "ddddddd"
     }
+  },
+  {
+    "event": "acceptValue",
+    "path": "",
+    "value": {
+      "comment": "COmment here",
+      "name": "abcdddd",
+      "address": "ddddddd"
+    }
   }
 ]
