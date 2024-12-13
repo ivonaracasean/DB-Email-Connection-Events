@@ -124,5 +124,14 @@
       "name": "abcdddd",
       "address": "ddddddd"
     }
+  },
+  {
+    "event": "rejectValue",
+    "path": "",
+    "value": {
+      "comment": "COmment here",
+      "name": "abcdddd",
+      "address": "ddddddd"
+    }
   }
 ]
