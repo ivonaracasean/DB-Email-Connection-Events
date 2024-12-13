@@ -142,5 +142,14 @@
       "name": "abcdddd",
       "address": "ddddddd"
     }
+  },
+  {
+    "event": "acceptValue",
+    "path": "",
+    "value": {
+      "comment": "Kk",
+      "name": "abcdddd",
+      "address": "ddddddd"
+    }
   }
 ]
