@@ -97,5 +97,14 @@
       "name": "abcdddd",
       "address": "ddddddd"
     }
+  },
+  {
+    "event": "rejectValue",
+    "path": "",
+    "value": {
+      "comment": "Just don't like this name",
+      "name": "abcdddd",
+      "address": "ddddddd"
+    }
   }
 ]
