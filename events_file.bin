@@ -151,5 +151,14 @@
       "name": "abcdddd",
       "address": "ddddddd"
     }
+  },
+  {
+    "event": "rejectValue",
+    "path": "",
+    "value": {
+      "comment": "",
+      "name": "abcdddd",
+      "address": "ddddddd"
+    }
   }
 ]
