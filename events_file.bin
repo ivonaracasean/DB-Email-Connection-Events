@@ -178,5 +178,14 @@
       "name": "Ivona Racasean",
       "address": "Bucharest, District 4"
     }
+  },
+  {
+    "event": "rejectValue",
+    "path": "",
+    "value": {
+      "comment": "This information is correct, I might say.",
+      "name": "Ivona Racasean",
+      "address": "Bucharest, District 4"
+    }
   }
 ]
