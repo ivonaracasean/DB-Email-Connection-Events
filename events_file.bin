@@ -205,5 +205,14 @@
       "name": "John Doe",
       "address": "Paris, France"
     }
+  },
+  {
+    "event": "acceptValue",
+    "path": "comment",
+    "value": {
+      "comment": "Somme comments",
+      "name": "Ivona Maria Racasean",
+      "address": "Bucharest, District 4"
+    }
   }
 ]
