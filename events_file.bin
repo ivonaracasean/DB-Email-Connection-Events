@@ -223,5 +223,14 @@
       "name": "Ivona Maria Racasean",
       "address": "Bucharest, District 4"
     }
+  },
+  {
+    "event": "acceptValue",
+    "path": "",
+    "value": {
+      "comment": "Some comment",
+      "name": "Ivona Maria Racasean",
+      "address": "Bucharest, District 4"
+    }
   }
 ]
