@@ -196,5 +196,14 @@
       "name": "Ivona Maria Racasean",
       "address": "Bucharest, District 4"
     }
+  },
+  {
+    "event": "rejectValue",
+    "path": "comment",
+    "value": {
+      "comment": "Check the address again.",
+      "name": "John Doe",
+      "address": "Paris, France"
+    }
   }
 ]
