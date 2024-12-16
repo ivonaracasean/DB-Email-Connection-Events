@@ -241,5 +241,14 @@
       "name": "John Doe",
       "address": "Rome, Italy"
     }
+  },
+  {
+    "event": "acceptValue",
+    "path": "comment",
+    "value": {
+      "comment": "The info is correct!",
+      "name": "John Doe",
+      "address": "Rome, Italy"
+    }
   }
 ]
