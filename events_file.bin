@@ -29,5 +29,10 @@
       ],
       "formData": {}
     }
+  },
+  {
+    "event": "setValue",
+    "path": "connections[0].formData.baseCredentials.host",
+    "value": "localhost"
   }
 ]
